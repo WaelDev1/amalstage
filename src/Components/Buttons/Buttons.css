@@ -1,0 +1,15 @@
+.myBtn {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    border:1px solid grey;
+    cursor: pointer;
+}
+.btn-wrapper {
+    width:50px;
+    display: flex;  
+    text-align: center;
+ 
+}

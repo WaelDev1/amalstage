@@ -1,0 +1,19 @@
+.product-details {
+    width: 350px;
+}
+
+.product-details .product-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shareIcon {
+    cursor: pointer;
+}
+.product-details .product-header h2 {
+      margin-bottom: 0 0 10px;
+}
+.product-details .product-price h4 { 
+    margin: 0;
+    color: #888;
+}

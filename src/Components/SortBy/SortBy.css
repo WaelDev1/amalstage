@@ -1,0 +1,21 @@
+ 
+.sortby  ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.sortby  ul li  {
+    margin:  10px 5px 0 0;
+    color: #333;
+    border: 1px solid #333;
+    padding: 5px 8px;
+    border-radius: 15px;
+    cursor:pointer
+}
+
+.sortby  ul li.active {
+    background-color: green;
+    color: white;
+    border-color: green;
+}
